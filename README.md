@@ -30,4 +30,4 @@ Source Code Sistem Pendukung Keputusan (SPK) Metode Analytic Hierarchy Process (
 Selengkapnya 
 ------------
 
-Buka [ContohProgram.com](http://arsipskripsi.ganeshasoftmedia.com)
+Buka [arsipskripsi.ganeshasoftmedia.com](http://arsipskripsi.ganeshasoftmedia.com)
